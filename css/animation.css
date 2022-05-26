@@ -1,0 +1,38 @@
+@keyframes change-color_face{
+    from{
+        background-color: #396bc2;
+    }
+
+    to{
+        background-color: #2b5297;
+    }
+}
+
+@keyframes change-color_telega{
+    from{
+        background-color: #009eec;
+    }
+
+    to{
+        background-color: #0088cc;
+    }
+}
+
+@keyframes change-color_vk{
+    from{
+        background-color: #4f74c5;
+    }
+
+    to{
+        background-color: #3b5998;
+    }
+}
+@keyframes change-color_you{
+    from{
+        background-color: #ec0000;
+    }
+
+    to{
+        background-color: #c30000;
+    }
+}
